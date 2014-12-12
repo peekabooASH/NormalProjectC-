@@ -1,0 +1,15 @@
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\bin\Debug\personal InfoApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\bin\Debug\personal InfoApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\bin\Debug\personal InfoApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal_InfoApp.Form1.resources
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal_InfoApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\personal InfoApp\personal InfoApp\bin\Debug\personal InfoApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\personal InfoApp\personal InfoApp\bin\Debug\personal InfoApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\personal InfoApp\personal InfoApp\obj\Debug\personal InfoApp.pdb

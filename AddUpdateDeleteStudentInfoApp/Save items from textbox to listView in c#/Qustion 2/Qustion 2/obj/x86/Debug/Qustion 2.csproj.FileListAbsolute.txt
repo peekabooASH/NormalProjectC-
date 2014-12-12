@@ -1,0 +1,46 @@
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\bin\Debug\Qustion 2.exe
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\bin\Debug\Qustion 2.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion_2.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion_2.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion 2.exe
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion_2.Form2.resources
+C:\Users\user\AppData\Local\Temporary Projects\Qustion 2\obj\x86\Debug\Qustion_2.Form3.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\bin\Debug\Qustion 2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\bin\Debug\Qustion 2.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\bin\Debug\Qustion 2.exe
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\bin\Debug\Qustion 2.pdb
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Form1.resources
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Properties.Resources.resources
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.exe
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csproj.GenerateResource.Cache
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.exe
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\bin\Debug\Qustion 2.exe
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\bin\Debug\Qustion 2.pdb
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csprojResolveAssemblyReference.cache
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Form1.resources
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Properties.Resources.resources
+C:\Users\MZWEH\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\bin\Debug\Qustion 2.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\bin\Debug\Qustion 2.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Form1.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion_2.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\save_items_from_textbox_to_listview_in_c\Save items from textbox to listView in c#\Qustion 2\Qustion 2\obj\x86\Debug\Qustion 2.csproj.GenerateResource.Cache

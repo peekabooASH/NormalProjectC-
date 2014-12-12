@@ -1,0 +1,21 @@
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.EmployeeSalaryUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\My Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\My Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\My Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\File and other Project\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+C:\Users\Nadim\Desktop\Basis ALL project\NormalProject\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+C:\Users\Nadim\Desktop\Basis ALL project\NormalProject\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+C:\Users\Nadim\Desktop\Basis ALL project\NormalProject\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb

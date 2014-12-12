@@ -1,0 +1,12 @@
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Form1.resources
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\PurchaseTicketApp\PurchaseTicketApp\bin\Debug\PurchaseTicketApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Mamun Vai\PurchaseTicketApp\PurchaseTicketApp\obj\Debug\PurchaseTicketApp.pdb

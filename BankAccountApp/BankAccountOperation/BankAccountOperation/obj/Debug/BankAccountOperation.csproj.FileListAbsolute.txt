@@ -1,0 +1,43 @@
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.read.1.tlog
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lalit\Desktop\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.write.1.tlog
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.read.1.tlog
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lalit\Desktop\New folder (3)\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.write.1.tlog
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.read.1.tlog
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\lalit\Desktop\New folder\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.write.1.tlog
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.csproj.GenerateResource.Cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\Mamun Vai\bankaccountoperation\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\Nadim\Desktop\Basis ALL project\NormalProject\BankAccountApp\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+C:\Users\Nadim\Desktop\Basis ALL project\NormalProject\BankAccountApp\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb

@@ -1,0 +1,53 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:Account.cs" caret="361" fromTop="9" />
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:AccountOperationUI.cs" caret="894" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:AccountOperationUI.cs" caret="1400" fromTop="10" />
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:Account.cs" caret="426" fromTop="16" />
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:Account.cs" caret="253" fromTop="6" />
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:AccountOperationUI.cs" caret="585" fromTop="11" />
+      <File id="D58D6E97-EAF1-4118-8FD8-B15440A3DC92/f:AccountOperationUI.cs" caret="1191" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="63" />
+      <Item value="public" priority="63" />
+      <Item value="Account`0" priority="63" />
+      <Item value="string" priority="63" />
+      <Item value="this" priority="95" />
+      <Item value="accountNumber" priority="31" />
+      <Item value="customerName" priority="31" />
+      <Item value="Balance" priority="31" />
+      <Item value="accountNumberTextBox" priority="31" />
+      <Item value="customerNameTextBox" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BankAccountOperation.Account">
+      <Item value="accountNumber" priority="26" />
+      <Item value="customerName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

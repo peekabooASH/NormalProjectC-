@@ -1,0 +1,15 @@
+Save items from textbox to listView in c#.
+This is a small tutorial it will show you how to save items from 
+textbox to rich text listView.
+Here i have four buttons.
+1 Savebtn
+2 Updatbtn
+3 Addnewbtn
+4 Cancelbtn
+
+All these buttons are working correct what you must do just download
+ the file and debug it on your computer. It a simple program.
+It was of the questions on my assignment.
+
+If you have any problem contact me on my email address:mzwenhlanhla@ssmgroup.co.za /mzwenhlanhla@gmail.com
+   or Facebook: http://www.facebook.com/mzwenhlanhla.dlamini

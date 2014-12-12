@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\bin\Release\Qustion 2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\bin\Release\Qustion 2.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\Qustion_2.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\Qustion_2.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\Qustion 2.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\aaaaaaa\Qustion 2\Qustion 2\obj\x86\Release\Qustion 2.pdb
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Release\Qustion 2.exe
+C:\Users\user\Downloads\Prog\Programming 3A\Qustion 2\Qustion 2\obj\x86\Release\Qustion 2.pdb

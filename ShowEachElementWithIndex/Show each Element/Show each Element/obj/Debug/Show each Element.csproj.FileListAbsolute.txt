@@ -1,0 +1,18 @@
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\bin\Debug\Show each Element.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\bin\Debug\Show each Element.exe
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\bin\Debug\Show each Element.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show each Element.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show_each_Element.Form1.resources
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show_each_Element.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show each Element.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show each Element.exe
+c:\users\nadim\documents\visual studio 2013\Projects\Show each Element\Show each Element\obj\Debug\Show each Element.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\bin\Debug\Show each Element.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show each Element.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show each Element.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\bin\Debug\Show each Element.exe
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\bin\Debug\Show each Element.pdb
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show each Element.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show_each_Element.Form1.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show_each_Element.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\New folder1\My Project\New folder\Show each Element\Show each Element\Show each Element\obj\Debug\Show each Element.csproj.GenerateResource.Cache

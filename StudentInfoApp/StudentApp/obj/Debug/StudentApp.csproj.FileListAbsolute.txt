@@ -1,0 +1,9 @@
+c:\users\nadim\documents\visual studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.Cache
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\bin\Debug\StudentInfoLayerArchitectureApp.exe.config
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\bin\Debug\StudentInfoLayerArchitectureApp.exe
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\bin\Debug\StudentInfoLayerArchitectureApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentInfoLayerArchitectureApp.Properties.Resources.resources
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentInfoLayerArchitectureApp.exe
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentInfoLayerArchitectureApp.pdb
+C:\Users\Nadim\Documents\Visual Studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentInfoLayerArchitectureApp.StudentUI.resources

@@ -1,0 +1,17 @@
+D:\13-03-14\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.SuperShopUI.resources
+D:\13-03-14\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.Properties.Resources.resources
+D:\13-03-14\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.csproj.GenerateResource.Cache
+D:\13-03-14\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+D:\13-03-14\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+D:\13-03-14\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.exe
+D:\13-03-14\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.pdb
+C:\Users\PC21\Desktop\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.exe
+C:\Users\PC21\Desktop\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.SuperShopUI.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.Properties.Resources.resources
+F:\maloncho backup\Ddrive\C# COURSE\Basis\SuperShopApp\SuperShopApp\obj\x86\Debug\SuperShopApp.csproj.GenerateResource.Cache

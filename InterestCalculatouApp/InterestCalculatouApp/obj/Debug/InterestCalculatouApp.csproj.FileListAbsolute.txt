@@ -1,0 +1,9 @@
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\bin\Debug\InterestCalculatouApp.exe.config
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\bin\Debug\InterestCalculatouApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\bin\Debug\InterestCalculatouApp.pdb
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.Form1.resources
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.Properties.Resources.resources
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.csproj.GenerateResource.Cache
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.exe
+c:\users\nadim\documents\visual studio 2013\Projects\InterestCalculatouApp\InterestCalculatouApp\obj\Debug\InterestCalculatouApp.pdb
